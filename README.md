@@ -21,7 +21,7 @@ Save the program and execute it .
 ### Program:
 ```
 Developed By: Manoj Guna Sundar Tella.
-Reg.No:212221240037
+Reg.No: 212221240026.
 ```
 ```
 #include <stdio.h>
